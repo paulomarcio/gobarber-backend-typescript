@@ -3,7 +3,7 @@
   "host": "127.0.0.1",
   "port": 5432,
   "username": "postgres",
-  "password": "docker",
+  "password": "postgres",
   "database": "gobarber",
   "entities": [
     "./src/modules/**/infra/typeorm/entities/*.ts"
